@@ -1,14 +1,13 @@
 # 음을 그리다 - Drawing Sound (web)
-작곡 애플리케이션을 통해 악보를 생성하고, 생성한 악보의 **뷰어**와 **출력** 기능을 제공하는 웹 서비스
-</br></br>
+작곡 애플리케이션을 통해 **악보를 생성**하고, 생성한 악보의 **뷰어**와 **출력** 기능을 제공하는 웹 서비스
+</br></br></br>
 
 ## Web Image
 #### 1. 홈 </br></br>
 <img width="550" alt="drawingsound web screenshot" src="https://user-images.githubusercontent.com/33407123/80938795-62b97480-8e15-11ea-9e80-ba60611861ae.PNG">
 </br>
 
- * **악보 리스트**</br>
- 애플리케이션을 통해 생성한 악보를 웹 에서 모아 볼 수 있습니다.
+ * 애플리케이션을 통해 생성한 악보를 웹에서 **악보 리스트**로 모아 볼 수 있습니다. </br>
  
 </br></br>
 
@@ -16,7 +15,7 @@
 <img width="550" alt="drawingsound web screenshot" src="https://user-images.githubusercontent.com/33407123/80938949-ee330580-8e15-11ea-8d97-b36b5b4dfa33.PNG">
 </br>
 
- 악보 이미지를 웹을 통해 크게 볼 수 있습니다.
+ * 악보 이미지를 웹을 통해 크게 볼 수 있습니다.
  
 </br></br>
 
@@ -24,7 +23,7 @@
 <img width="550" alt="drawingsound web screenshot" src="https://user-images.githubusercontent.com/33407123/80938977-fe4ae500-8e15-11ea-8415-f6530b2925a8.PNG">
 </br>
 
- 악보 이미지를 실물 출력 또는 PDF로 저장할 수 있습니다.
+ * 악보 이미지를 실물 출력 또는 PDF로 저장할 수 있습니다.
  
 </br></br>
 
