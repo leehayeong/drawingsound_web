@@ -34,7 +34,6 @@
 - 개발 환경: Visual Studio Code, AWS EC2
 - 개발 언어: Javascript, Pug, SCSS
 - 웹 서버: Express
-- 데이터베이스: Firebase
 - 프레임워크: BootStrap
 - 협업 툴: GitHub, Trello
 
